@@ -5,7 +5,7 @@
 
 ## What is dBTS and why we need it ? 
 
-'dBTS' stands for 'Decelerated BitShares, as the moment when $BTS moves out from its native tech it becomes MUCH SLOWER, hence 'decelerated' and a turtle-like logo for 'd'. In order to expand ourselves to other ecossytems as the oldest, fastest dPOS around that is constantly being rejected from top ecosystems just because its 'not their native token'. 
+‘dBTS' stands for 'Decelerated BitShares, for the moment $BTS moves out from its native tech, it becomes MUCH SLOWER, hence 'decelerated' and a turtle-like logo for 'd'. To expand $BTS to other ecosystems, being the oldest, fastest dPOS around, constantly being rejected from top ecosystems just because it's 'not their native token.' 
 
 Since people started going crazy with 'wrapped' BTC who does have price of its own and has nothing even close to what we consider PEG around BitShares, or line of 'synths' by new modern tech startups... We invented MPA's with oracles more than half decade ago, so it's time to show their markets what is the real meaning of PEG to an Asset and how Bitshares does it.
 
