@@ -1,7 +1,7 @@
 ## dBTS_erc20_token
 
-Author(s): Henry Woo (Ethereum developer), Milos (DL) Preocanin (BitShares architect)
-Deployed by: Long Jie (BitShares JS Developer)
+**Author(s):** Henry Woo (Ethereum developer), Milos (DL) Preocanin (BitShares architect) </br>
+**Deployed by:** Long Jie (BitShares JS Developer)
 
 ## What is dBTS and why we need it ? 
 
@@ -11,14 +11,14 @@ Since people started going crazy with 'wrapped' BTC who does have price of its o
 
 We need it to enter, demostrate power and dominate their markets while presenting their technology as obsolete.
 
-TX cost per swap within Bitshares blockchain: ~ $0.10 (Basic account) TimeToComplete: 3 seconds fixed </br>
-TX cost per swap within Ethereum blockchain: ~ $18-$198 (Uniswap, Metamask) TimeToComplete: ~ 3 minutes
+**TX cost per swap within Bitshares blockchain:** ~ $0.10 (Basic account) TimeToComplete: 3 seconds fixed </br>
+**TX cost per swap within Ethereum blockchain:** ~ $18-$198 (Uniswap, Metamask) TimeToComplete: ~ 3 minutes
 
 ### ERC20 Characteristics and details:
 Capped, Mintable, Burnable, Pausable.
 
-OWNER/MINTER ADDRESS: 0xb4a19FA2196519641959c2Dd316daBe667F3fBd0
-TOKEN CONTRACT ADDRESS: 0x58e27acd119a13bb41c795b9362b6c6dd39e0f3b
+**OWNER/MINTER ADDRESS:** 0xb4a19FA2196519641959c2Dd316daBe667F3fBd0
+**TOKEN CONTRACT ADDRESS:** 0x58e27acd119a13bb41c795b9362b6c6dd39e0f3b
 
 **Precision:** 5 decimals
 
@@ -32,7 +32,10 @@ organization (BitShares.org, Move Institute - Slovenia).
 ### dBTS ERC20 official and ONLY corporate Partner/representative is 
 BitShares Management Group Limited Thailand
 
+Updates: 
+- 18. May. 2021. Etherscan profile and token being updated.
+- In process dbts.network (main website for dBTS with main wallets, info and more links)
+- In process dbts.markets (swap website for dBTS to maintain PEG 1:1)
+- In process dbts.supply (page within main website for dBTS with supply info, account balances and history of swap)
 
-Announcement: by 25. May 2021. Gateway for PEG and SWAP along with corporate account on Bitshares blockchain that will be used for proof of issued deposits (BTS proof on ethereum blockchain for real BTS known as dBTS). Network website will be launched same day, as well as CMC listing. 
-
-Update 18. May. 2021. Etherscan profile and token being updated.
+Registration with CMC will happen after we have 3 pricefeeds (SWAP's) so we satisfy minimum requirements of CMC for listing of a token.
