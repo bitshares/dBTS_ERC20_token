@@ -33,7 +33,7 @@ Move Institute, Slovenia (bitshares.org & EU Trademark)
 BitShares Management Group Co., LTD. Thailand
 
 Updates: 
-- 18. May. 2021. Etherscan profile and token being updated.
+- 18 May. 2021. Etherscan profile and token being updated.
 - In process dbts.network (main website for dBTS with main wallets, info and more links)
 - In process dbts.markets (swap website for dBTS to maintain PEG 1:1)
 - In process dbts.supply (page within main website for dBTS with supply info, account balances and history of swap)
