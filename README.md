@@ -26,11 +26,11 @@ Capped, Mintable, Burnable, Pausable.
 
 **Initial Supply:** 20,000.00000 dBTS
 
-### dBTS ERC20 contract is subject to copyright of BitShares non-profit 
-organization (BitShares.org, Move Institute - Slovenia).
+### dBTS ERC20 contract is subject to copyright of BitShares non-profit organization 
+Move Institute, Slovenia (bitshares.org & EU Trademark)
 
 ### dBTS ERC20 official and ONLY corporate Partner/representative is 
-BitShares Management Group Limited Thailand
+BitShares Management Group Co., LTD. Thailand
 
 Updates: 
 - 18. May. 2021. Etherscan profile and token being updated.
