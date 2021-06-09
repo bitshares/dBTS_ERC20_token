@@ -22,7 +22,7 @@ Capped, Mintable, Burnable, Pausable.
 
 **Precision:** 5 decimals
 
-**Max mintable supply:** 3,600,570,502.00000
+**Max mintable supply:** 3,600,570,502.00000 dBTS
 
 **Initial Supply:** 20,000.00000 dBTS
 
