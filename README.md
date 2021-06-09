@@ -11,7 +11,7 @@ Since people started going crazy with 'wrapped' BTC who does have price of its o
 
 We need it to enter, demostrate power and dominate their markets while presenting their technology as obsolete.
 
-TX cost per swap within Bitshares blockchain: ~ $0.10 (Basic account) TimeToComplete: 3 seconds fixed
+TX cost per swap within Bitshares blockchain: ~ $0.10 (Basic account) TimeToComplete: 3 seconds fixed </br>
 TX cost per swap within Ethereum blockchain: ~ $18-$198 (Uniswap, Metamask) TimeToComplete: ~ 3 minutes
 
 ### ERC20 Characteristics and details:
