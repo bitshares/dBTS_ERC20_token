@@ -17,7 +17,7 @@ We need it to enter, demostrate power and dominate their markets while presentin
 ### ERC20 Characteristics and details:
 Capped, Mintable, Burnable, Pausable.
 
-**OWNER/MINTER ADDRESS:** 0xb4a19FA2196519641959c2Dd316daBe667F3fBd0
+**OWNER/MINTER ADDRESS:** 0xb4a19FA2196519641959c2Dd316daBe667F3fBd0 </br>
 **TOKEN CONTRACT ADDRESS:** 0x58e27acd119a13bb41c795b9362b6c6dd39e0f3b
 
 **Precision:** 5 decimals
