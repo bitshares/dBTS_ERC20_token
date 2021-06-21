@@ -6,7 +6,8 @@
   "scripts": {
     "local": "truffle migrate",
     "ropsten": "rm -rf build && truffle migrate --network ropsten && truffle console --network ropsten",
-    "main": "rm -rf build && truffle migrate --network main"
+    "main": "rm -rf build && truffle migrate --network main",
+    "verify": "truffle run verify BaseToken@0x58e27aCD119a13Bb41C795B9362B6C6dD39e0F3b --network main --debug"
   },
   "keywords": [],
   "author": "",
